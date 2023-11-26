@@ -19,9 +19,13 @@
 	Basecamp Feb/2022:
 </h4>
 
-[![](https://img.shields.io/badge/Project-Basecamp-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_born2beroot/blob/main/recipes/rocky.md)
+[![](https://img.shields.io/badge/Project-Basecamp-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_basecamp)
 
-[![](https://img.shields.io/badge/Project-Debian-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_born2beroot/blob/main/recipes/debian.md)
+<h4>
+	42 Cursus - Phase one/2023:
+</h4>
+
+[![](https://img.shields.io/badge/Project-Born-2-be-root-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_born2beroot)
 
 ##
 [![](https://img.shields.io/badge/Profile-game?&label=Game&labelColor=gray&color=dodgerblue&logo=42)](https://game.42sp.org.br/cadet/dande-je)
