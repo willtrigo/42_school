@@ -1,20 +1,20 @@
 # 🏢 42sp
 
 <picture>
-	<img alt="born2beroot" src="img/42_school.png">
-</picture>
-<picture >
-	<img alt="OS" src="https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue">
-</picture>
-<picture >
-	<img alt="Language" src="https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue">
-</picture>
-<picture >
-	<img alt="Status" src="https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow">
-</picture>
 
+![born2beroot](./img/42_school.png)
+
+</picture>
+<picture >
+
+![OS](https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue)
+![Language](https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue)
+![Status](https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow)
+
+</picture>
 
 ## 🏅 Projects
+
 <h4>
 	Basecamp Feb/2022:
 </h4>
