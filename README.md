@@ -5,12 +5,20 @@
 ![born2beroot](./img/42_school.png)
 
 </picture>
-<picture >
-
-![OS](https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue)
-![Language](https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue)
-![Status](https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow)
-
+<picture>
+	<source srcset="https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue" media="(min-width: 600px)">
+	<source srcset="https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue" media="(min-width: 400px)">
+	<img srcset="https://img.shields.io/badge/Linux-OS?&label=OS&labelColor=gray&color=dodgerblue" alt="OS - Linux">
+</picture>
+<picture>
+	<source srcset="https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue" media="(min-width: 600px)">
+	<source srcset="https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue" media="(min-width: 400px)">
+	<img srcset="https://img.shields.io/badge/Shell_|_C-Language?&label=Language&labelColor=gray&color=dodgerblue" alt="Language - Shell | C">
+</picture>
+<picture>
+	<source srcset="https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow" media="(min-width: 600px)">
+	<source srcset="https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow" media="(min-width: 400px)">
+	<img srcset="https://img.shields.io/badge/WIP-Status?&label=Status&labelColor=gray&color=yellow" alt="Status - WIP">
 </picture>
 
 ## 🏅 Projects
