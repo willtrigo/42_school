@@ -38,7 +38,7 @@
 [![](https://img.shields.io/badge/Project-Piscine-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_piscine)
 
 <h4>
-	42 Cursus - Phase one/2023:
+	42 Cursus - Phase one - Aug/2023:
 </h4>
 
 [![](https://img.shields.io/badge/Project-Born_2_be_root-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_born2beroot)
