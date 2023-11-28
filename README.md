@@ -30,6 +30,12 @@
 [![](https://img.shields.io/badge/Project-Basecamp-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_basecamp)
 
 <h4>
+	Piscine Jun/2023:
+</h4>
+
+[![](https://img.shields.io/badge/Project-Piscine-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_piscine)
+
+<h4>
 	42 Cursus - Phase one/2023:
 </h4>
 
