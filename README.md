@@ -1,7 +1,5 @@
 # 🏢 42sp
 
-
-
 <picture>
 
 ![born2beroot](./img/42_school.png)
@@ -36,6 +34,12 @@
 </h4>
 
 [![](https://img.shields.io/badge/Project-Piscine-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_piscine)
+
+<h4>
+	Piscine Reloaded Jul/2023:
+</h4>
+
+[![](https://img.shields.io/badge/Project-Piscine_Reloaded-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_piscine_reloaded)
 
 <h4>
 	42 Cursus - Phase one - Aug/2023:
