@@ -45,6 +45,7 @@
 	42 Cursus - Phase one - Aug/2023:
 </h4>
 
+[![](https://img.shields.io/badge/Project-42_libft-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_libft)
 [![](https://img.shields.io/badge/Project-Born_2_be_root-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_born2beroot)
 
 ##
