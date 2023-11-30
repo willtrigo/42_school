@@ -19,3 +19,6 @@
 [submodule "42_born2beroot"]
 	path = 42_born2beroot
 	url = git@github.com:willtrigo/42_born2beroot.git
+[submodule "42_fract-ol"]
+	path = 42_fract-ol
+	url = git@github.com:willtrigo/42_fract-ol.git
