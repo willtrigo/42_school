@@ -1,17 +1,43 @@
-name: Update submodules
+name: Submodule Updates
 
+#############################
+# Start the job on all push #
+#############################
 on:
   push:
-    branches: [main]
+    branches-ignore: [master, main]
+  pull_request:
+    branches: [master, main]
 
+###############
+# Set the Job #
+###############
 jobs:
-  update-submodules:
+  build:
+    name: Submodule update
     runs-on: ubuntu-latest
+    env:
+      PARENT_REPOSITORY: 'willtrigo/42_school'
+      CHECKOUT_BRANCH: 'main'
+      PR_AGAINST_BRANCH: 'main'
+      OWNER: 'willtrigo'
 
     steps:
-      - name: Checkout repository
+      ##########################
+      # Checkout the code base #
+      ##########################
+      - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Update submodules
-        run: |
-          git submodule update --init --recursive
+      ####################################
+      # Run the action against code base #
+      ####################################
+      - name: run action
+        id: run_action
+        uses: releasehub-com/github-action-create-pr-parent-submodule@v1
+        with:
+          github_token: ${{ secrets.RELEASE_HUB_SECRET }}
+          parent_repository: ${{ env.PARENT_REPOSITORY }}
+          checkout_branch: ${{ env.CHECKOUT_BRANCH}}
+          pr_against_branch: ${{ env.PR_AGAINST_BRANCH }}
+          owner: ${{ env.OWNER }}
