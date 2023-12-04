@@ -62,3 +62,4 @@
 		<img srcset="./img/wild_duck.png" height="35px" alt="OS - Linux">
 	</picture>
 </div>
+
