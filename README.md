@@ -58,7 +58,7 @@
 <div align="right" height=25px>
 	<picture>
 		<source srcset="./img/wild_duck.png" media="(min-height: 40px)">
-		<source srcset="./img/wild_duck.png" media="(min-height: 25px)">
+		<source srcset="./img/wild_duck.png" media="(min-height: 30px)">
 		<img srcset="./img/wild_duck.png" height="35px" alt="OS - Linux">
 	</picture>
 </div>
