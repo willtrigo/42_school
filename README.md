@@ -1,4 +1,4 @@
-# 🏢 42sp
+# 🏢 42 São Paulo
 
 <picture>
 
@@ -54,6 +54,7 @@
 ##
 
 [![](https://img.shields.io/badge/Profile-game?&label=Game&labelColor=gray&color=dodgerblue&logo=42)](https://game.42sp.org.br/cadet/dande-je)
+[![](https://img.shields.io/badge/São_Paulo-game?color=dodgerblue&logo=42)](https://42sp.org.br/)
 
 <div align="right" height=25px>
 	<picture>
