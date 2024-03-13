@@ -22,3 +22,9 @@
 [submodule "42_fract-ol"]
 	path = 42_fract-ol
 	url = git@github.com:willtrigo/42_fract-ol.git
+[submodule "42_so_long"]
+	path = 42_so_long
+	url = git@github.com:willtrigo/42_so_long.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = git@github.com:willtrigo/42_minitalk.git

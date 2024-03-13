@@ -2,7 +2,7 @@
 
 <picture>
 
-![born2beroot](./img/42_school.png)
+![](./img/42_school.png)
 
 </picture>
 <picture>
@@ -49,7 +49,9 @@
 [![](https://img.shields.io/badge/Project-42_get_next_line-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_get_next_line)
 [![](https://img.shields.io/badge/Project-42_printf-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_printf)
 [![](https://img.shields.io/badge/Project-Born_2_be_root-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_born2beroot)
-[![](https://img.shields.io/badge/Project-42_fract--ol-yellow?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_fract-ol)
+[![](https://img.shields.io/badge/Project-42_fract--ol-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_fract-ol)
+[![](https://img.shields.io/badge/Project-42_so_long-yellow?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_so_long)
+[![](https://img.shields.io/badge/Project-42_minitalk-yellow?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_minitalk)
 
 ##
 
