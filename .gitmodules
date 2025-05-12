@@ -1,30 +1,93 @@
 [submodule "42_basecamp"]
 	path = 42_basecamp
 	url = git@github.com:willtrigo/42_basecamp.git
+[submodule "42_born2beroot"]
+	path = 42_born2beroot
+	url = git@github.com:willtrigo/42_born2beroot.git
+[submodule "42_cpp_module_00"]
+	path = 42_cpp_module_00
+	url = git@github.com:willtrigo/42_cpp_module_00.git
+[submodule "42_cpp_module_01"]
+	path = 42_cpp_module_01
+	url = git@github.com:willtrigo/42_cpp_module_01.git
+[submodule "42_cpp_module_02"]
+	path = 42_cpp_module_02
+	url = git@github.com:willtrigo/42_cpp_module_02.git
+[submodule "42_cpp_module_03"]
+	path = 42_cpp_module_03
+	url = git@github.com:willtrigo/42_cpp_module_03.git
+[submodule "42_cpp_module_04"]
+	path = 42_cpp_module_04
+	url = git@github.com:willtrigo/42_cpp_module_04.git
+[submodule "42_cpp_module_05"]
+	path = 42_cpp_module_05
+	url = git@github.com:willtrigo/42_cpp_module_05.git
+[submodule "42_cpp_module_06"]
+	path = 42_cpp_module_06
+	url = git@github.com:willtrigo/42_cpp_module_06.git
+[submodule "42_cpp_module_07"]
+	path = 42_cpp_module_07
+	url = git@github.com:willtrigo/42_cpp_module_07.git
+[submodule "42_cpp_module_08"]
+	path = 42_cpp_module_08
+	url = git@github.com:willtrigo/42_cpp_module_08.git
+[submodule "42_cpp_module_09"]
+	path = 42_cpp_module_09
+	url = git@github.com:willtrigo/42_cpp_module_09.git
+[submodule "42_cub3d"]
+	path = 42_cub3d
+	url = git@github.com:willtrigo/42_cub3d.git
+[submodule "42_fdf"]
+	path = 42_fdf
+	url = git@github.com:willtrigo/42_fdf.git
+[submodule "42_fract-ol"]
+	path = 42_fract-ol
+	url = git@github.com:willtrigo/42_fract-ol.git
+[submodule "42_get_next_line"]
+	path = 42_get_next_line
+	url = git@github.com:willtrigo/42_get_next_line.git
+[submodule "42_inception"]
+	path = 42_inception
+	url = git@github.com:willtrigo/42_inception.git
+[submodule "42_irc"]
+	path = 42_irc
+	url = git@github.com:willtrigo/42_irc.git
+[submodule "42_libft"]
+	path = 42_libft
+	url = git@github.com:willtrigo/42_libft.git
+[submodule "42_minirt"]
+	path = 42_minirt
+	url = git@github.com:willtrigo/42_minirt.git
+[submodule "42_minishell"]
+	path = 42_minishell
+	url = git@github.com:willtrigo/42_minishell.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = git@github.com:willtrigo/42_minitalk.git
+[submodule "42_net_practice"]
+	path = 42_net_practice
+	url = git@github.com:willtrigo/42_net_practice.git
+[submodule "42_philosophers"]
+	path = 42_philosophers
+	url = git@github.com:willtrigo/42_philosophers.git
+[submodule "42_pipex"]
+	path = 42_pipex
+	url = git@github.com:willtrigo/42_pipex.git
 [submodule "42_piscine"]
 	path = 42_piscine
 	url = git@github.com:willtrigo/42_piscine.git
 [submodule "42_piscine_reloaded"]
 	path = 42_piscine_reloaded
 	url = git@github.com:willtrigo/42_piscine_reloaded.git
-[submodule "42_libft"]
-	path = 42_libft
-	url = git@github.com:willtrigo/42_libft.git
-[submodule "42_get_next_line"]
-	path = 42_get_next_line
-	url = git@github.com:willtrigo/42_get_next_line.git
 [submodule "42_printf"]
 	path = 42_printf
 	url = git@github.com:willtrigo/42_printf.git
-[submodule "42_born2beroot"]
-	path = 42_born2beroot
-	url = git@github.com:willtrigo/42_born2beroot.git
-[submodule "42_fract-ol"]
-	path = 42_fract-ol
-	url = git@github.com:willtrigo/42_fract-ol.git
+[submodule "42_push_swap"]
+	path = 42_push_swap
+	url = git@github.com:willtrigo/42_push_swap.git
 [submodule "42_so_long"]
 	path = 42_so_long
 	url = git@github.com:willtrigo/42_so_long.git
-[submodule "42_minitalk"]
-	path = 42_minitalk
-	url = git@github.com:willtrigo/42_minitalk.git
+[submodule "42_webserv"]
+	path = 42_webserv
+	url = git@github.com:willtrigo/42_webserv.git
