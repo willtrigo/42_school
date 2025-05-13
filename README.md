@@ -82,7 +82,7 @@
 </h5>
 
 [![](https://img.shields.io/badge/Project-netpractice-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_netpractice)
-[![](https://img.shields.io/badge/Project-minishell-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_cub3d)
+[![](https://img.shields.io/badge/Project-cub3d-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_cub3d)
 [![](https://img.shields.io/badge/Project-minirt-yellow?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_minirt)
 [![](https://img.shields.io/badge/Project-cpp_module_00-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_cpp_module_00)
 [![](https://img.shields.io/badge/Project-cpp_module_01-skyblue?style=for-the-badge&logo=42)](https://github.com/willtrigo/42_cpp_module_01)
